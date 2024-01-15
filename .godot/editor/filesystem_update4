@@ -1,0 +1,12 @@
+res://player.tscn
+res://mob.gd
+res://player.gd
+res://bullet.tscn
+res://enemyProjectile.tscn
+res://mob.tscn
+res://enemy_projectile.tscn
+res://player_projectile.tscn
+res://enemy_projectile.gd
+res://main.tscn
+res://player_projectile.gd
+res://main.gd
